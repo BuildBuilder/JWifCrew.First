@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/FtcRobotController/FtcRobotController.iml" filepath="$PROJECT_DIR$/FtcRobotController/FtcRobotController.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ftc_app-master v4.iml" filepath="$PROJECT_DIR$/ftc_app-master v4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FtcRobotController/src/main/main.iml" filepath="$PROJECT_DIR$/FtcRobotController/src/main/main.iml" />
     </modules>
   </component>
 </project>
